@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "GA";
+  src: url('./FangZhengJuZhen.ttf') format('truetype'),
+       url('./FangZhengJuZhen.woff2') format('woff2'),
+       url('./FangZhengJuZhen.woff') format('woff');
+}
